@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Art/static/css/main.ad38c36e.css",
+    "main.js": "/Art/static/js/main.cdad2413.js",
+    "static/media/map-image.png": "/Art/static/media/map-image.3cd6dd9808474f6ed762.png",
+    "static/media/pexels-photo-5209730-removebg-preview.png": "/Art/static/media/pexels-photo-5209730-removebg-preview.3336a3fc38028ae64031.png",
+    "static/media/pexels-photo-135018.jpeg": "/Art/static/media/pexels-photo-135018.b7e99ff7a844e667cd47.jpeg",
+    "static/media/inter2photo-3893023.jpeg": "/Art/static/media/inter2photo-3893023.1a7a548506c8276351e5.jpeg",
+    "static/media/inter1-photo-2167395.jpg": "/Art/static/media/inter1-photo-2167395.5e50509eb49c019de8ad.jpg",
+    "static/media/pexels-photo-2831624.jpg": "/Art/static/media/pexels-photo-2831624.a8870b32b4de855ae0f4.jpg",
+    "static/media/sliderrr1photo-3767669.jpeg": "/Art/static/media/sliderrr1photo-3767669.3973a32e51de45a32f97.jpeg",
+    "static/media/pexels-photo-9019132.jpeg": "/Art/static/media/pexels-photo-9019132.70d14aa089c5bfeb1768.jpeg",
+    "index.html": "/Art/index.html",
+    "main.ad38c36e.css.map": "/Art/static/css/main.ad38c36e.css.map",
+    "main.cdad2413.js.map": "/Art/static/js/main.cdad2413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad38c36e.css",
+    "static/js/main.cdad2413.js"
+  ]
+}
