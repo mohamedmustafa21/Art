@@ -1,0 +1,130 @@
+
+.section2{
+  margin-top: 100px;
+  height: 100vh !important;
+
+  
+}
+
+body {
+  /* background: transparent; */
+ 
+
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+.title{
+  position: relative;
+}
+.title::after{
+  content: '';
+  width: 20%;
+  top: 30px;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+}
+.title::before{
+  content: '';
+  width: 20%;
+  top: 30px;
+  right: 0;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+}
+.title-sec2{
+  color:  rgb(210, 164, 84);
+
+}
+
+.btn-inter{
+  color: rgb(247, 244, 239);
+  border: solid rgb(226, 206, 171);
+  background-color: transparent;
+  padding: 10px;
+  letter-spacing: 5px;
+  width: 170px;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: transparent;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.card-info{
+  height: 70%;
+  background-color: rgb(31, 28, 28);
+  padding: 20px;
+  text-align: start;
+}
+
+  .swiper-slide img {
+    /* display: block; */
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide:nth-child(1n) {
+  width: 60%;
+}
+.swiper-slide:nth-child(2n) {
+  width: 60%;
+}
+
+.swiper-slide:nth-child(3n) {
+  width: 60%;
+}
+
+
+@media only screen and (max-width : 768px) {
+
+.card-contain{
+  display: none;
+}
+.section2{
+  margin-top: 100px;
+  height: 75vh !important;
+
+  
+}
+
+
+.card-info{
+  height: 70%;
+  background-color: rgb(31, 28, 28);
+  padding: 30px;
+  text-align: start;
+}
+
+}
+
+@media screen and (max-width: 992px) {
+  .card-contain{
+    display: none;
+  }
+  
+}
